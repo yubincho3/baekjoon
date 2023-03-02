@@ -2,4 +2,4 @@
 cmake-build-debug
 CMakeLists.txt
 *.bat
-T_*.cpp
+T_*
