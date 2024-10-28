@@ -1,6 +1,4 @@
 .idea
-cmake-build-debug
-CMakeLists.txt
 *.bat
-T_*
+[a-ZA-z]*
 fileio/
